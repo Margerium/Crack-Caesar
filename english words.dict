@@ -1,0 +1,8 @@
+{
+	"ciphertype": "caesarcipher",
+	"filetype": "dict",
+	"dictionary": ["that", "with", "they", "this", "have", "from", "word", "what", "were", "when", "your",
+		"said", "there", "each", "which", "their", "will", "other", "about", "many", "then", "them",
+		"these", "some", "would", "make", "like", "into", "time", "look", "more", "write", "number", "could"
+	]
+}
