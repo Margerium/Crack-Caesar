@@ -8,7 +8,7 @@ Open up a command prompt / terminal / equivalent and navigate the directory cont
 
 This program uses commandline arguments to function, I'd recommend first looking at what commands are available.
 
-To do this, enter "python substitution.py -h" into your terminal - this will display all the commands.
+To do this, enter python substitution.py -h into your terminal - this will display all the commands.
 
 The first and only required command is -i "my_file".txt where "my_file" is the name of the file you wish to crack.
 
